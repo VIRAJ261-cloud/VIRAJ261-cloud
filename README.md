@@ -49,7 +49,7 @@ I'm a **B.Tech AI & ML student** at *Walchand College of Engineering, Sangli* wi
 
 ## 🚀 Projects
 
-### 🏠 [House Price Prediction](https://github.com/VIRAJ261-cloud) *(Ongoing)*
+### 🏠 [House Price Prediction](https://github.com/VIRAJ261-cloud/house-price-prediction) *(Ongoing)*
 > ML pipeline to predict residential sale prices using the Ames Housing Dataset (79 features)
 
 - Built an end-to-end ML pipeline with data preprocessing: null-value imputation, categorical encoding, and feature engineering
@@ -58,7 +58,7 @@ I'm a **B.Tech AI & ML student** at *Walchand College of Engineering, Sangli* wi
 
 ---
 
-### ⚽ Football Video Analysis System *(Partial)*
+### ⚽ [Football Video Analysis System](https://github.com/VIRAJ261-cloud/football-analysis) *(Partial)*
 > Computer vision pipeline for analyzing football match footage
 
 - Multi-object detection on every frame using a **Roboflow-trained YOLOv8** model
@@ -68,7 +68,7 @@ I'm a **B.Tech AI & ML student** at *Walchand College of Engineering, Sangli* wi
 
 ---
 
-### 💸 [Expense Tracker with AI Assistant](https://github.com/VIRAJ261-cloud) *(Completed)*
+### 💸 [Expense Tracker with AI Assistant](https://github.com/Suyashh19/EXPENCE-TRACKER) *(Completed)*
 > Full-stack expense tracker with an integrated AI chatbot — built at TechSprint2K25 Hackathon
 
 - Solely responsible for **all AI feature development** in a 3-member team
@@ -78,7 +78,7 @@ I'm a **B.Tech AI & ML student** at *Walchand College of Engineering, Sangli* wi
 
 ---
 
-### ⚖️ [Court Case Tracking System](https://github.com/VIRAJ261-cloud) *(Partial)*
+### ⚖️ [Court Case Tracking System](https://github.com/TaNuJaSaRaVale/court-case-tracking-system) *(Partial)*
 > React-based platform enabling citizens to manage legal cases with minimal lawyer dependency
 
 - Frontend Contributor — designed and built the complete React-based UI
